@@ -25,4 +25,4 @@ function calculateTotalDistance(inputFile) {
 
 const inputFile = "input.txt";
 const result = calculateTotalDistance(inputFile);
-console.log( result);
+console.log(result);
