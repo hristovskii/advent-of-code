@@ -45,6 +45,6 @@ function isSafe(report) {
 
 }
 
-const inputFile = "input.txt";
+const inputFile = "test.txt";
 const result = calculatePuzzle(inputFile);
 console.log(result);
